@@ -245,7 +245,10 @@ background-color: #777777;
 color: #ffffff;
 text-align:center;
 width:100%;
-border:10%;
+border:5%;
+border-top-style: solid;
+border-top-width: thick;
+border-top-color: aqua;
 
 
 
